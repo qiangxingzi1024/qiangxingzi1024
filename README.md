@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning terrain aided navigation
 - 💞️ I’m looking to collaborate on Bayesian filtering
 - 📫 How to reach me : qiangxingzi@ahu.edu.cn
-- 😄 Pronouns: ...
+- 😄 Pronouns: eheihsiofesfsfs
 - ⚡ Fun fact: ...
 
 <!---
